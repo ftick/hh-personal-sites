@@ -463,6 +463,7 @@ Hackathon Hackers' GitHub profiles
 - Hima Tammineedi https://github.com/himat
 - Hugh Rawlinson https://github.com/hughrawlinson
 - Humdaan Mustafa https://github.com/humishum
+- Ian Bantoto https://github.com/ftick or https://git.io/lcb
 - Ian Carroll https://github.com/iangcarroll or https://git.certly.io/ian
 - Ian Jennings https://github.com/ianjennings
 - Ian Macalinao https://github.com/simplyianm
